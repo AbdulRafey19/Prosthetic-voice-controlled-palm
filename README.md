@@ -5,17 +5,19 @@
 This project helps build a simple code in python to controll the movement of servos using voice commands. The picture above showcases the final assembly and look of the prosthetic palm.
 
 ## Compoennts Required
-1. Arduino UNO
+1. Arduino UNO:
 Arduino is used to send the signal to the servos.
 
 ![image](https://github.com/user-attachments/assets/7a14a091-3420-483c-b25d-50b3bc436b02)
 
-3. Servos 
+2. Servos:
 Servos are used to control the movement of each finger
+
 ![image](https://github.com/user-attachments/assets/2b013056-74b4-403b-b76b-d945a58fdfd3)
 
-4. Breadboard 
-Breadboard is used to build semi-permanent prototype of the projects circuit. 
+4. Breadboard:
+Breadboard is used to build semi-permanent prototype of the projects circuit.
+
 ![image](https://github.com/user-attachments/assets/f0239190-10d7-44f6-8f5d-87ceb9c0c799)
 
 ## Mechanical CAD setup for the prosthetic hand
