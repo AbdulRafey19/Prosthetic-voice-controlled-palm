@@ -33,50 +33,25 @@ with mic as source:
                 print("switch is on")
                 for i in range(0,360):
                     rotate(pin1,i)
-                # for i in range(360,0):
-                #     rotate(pin1,i)
+
             
             elif r.recognize_google(audio) =='middle finger':
                 print("switch is on")
                 for i in range(0,360):
                     rotate(pin2,i)
-#                 for i in range(360,0):
-#                     rotate(pin2,i)
+
 
             elif r.recognize_google(audio) =='ring finger':
                 print("switch is on")
                 for i in range(0,360):
                     rotate(pin3,i)
-#                 for i in range(360,0):
-#                     rotate(pin3,i)
+
 
             elif r.recognize_google(audio) =='small finger':
                 print("switch is on")
                 for i in range(0,360):
                     rotate(pin4,i)
-#                 for i in range(360,0):
-#                     rotate(pin4,i)
 
-            # elif r.recognize_google(audio) =='pollex':
-            #     print("switch is on")
-            #     for i in range(0,360):
-            #         rotate(pin5,i)
-#                 for i in range(360,0):
-#                     rotate(pin5,i)
-            # elif r.recognize_google(audio) =='thum':
-            #     print("switch is on")
-            #     for i in range(0,360):
-            #         rotate(pin5,i)
-                    
-            # elif r.recognize_google(audio) =='ham':
-            #     print("switch is on")
-            #     for i in range(0,360):
-            #         rotate(pin5,i)
-                    
-            # elif r.recognize_google(audio) =='hum':
-            #     print("switch is on")
-            #     for i in range(0,360):
-            #         rotate(pin5,i)
             
             elif r.recognize_google(audio) =='fat finger':
                 print("switch is on")
