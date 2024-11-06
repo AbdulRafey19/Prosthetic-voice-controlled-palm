@@ -45,6 +45,7 @@ The additional materials used for connecting the fingers to the main hand were n
 ![image](https://github.com/user-attachments/assets/97e8f712-3919-404f-b096-60e683e1fe4c)
 
 ## Arduino Connection With Servo
+
 ![image](https://github.com/user-attachments/assets/c59144f9-5ec9-4779-870f-6c740a247478)
 There are 5 servos which will all be powered using breadboard. And the signal wire of each servo will be attached with the Arduino output pins.
 
