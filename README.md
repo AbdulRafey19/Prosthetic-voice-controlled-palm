@@ -15,7 +15,7 @@ Servos are used to control the movement of each finger
 
 ![image](https://github.com/user-attachments/assets/2b013056-74b4-403b-b76b-d945a58fdfd3)
 
-4. Breadboard:
+3. Breadboard:
 Breadboard is used to build semi-permanent prototype of the projects circuit.
 
 ![image](https://github.com/user-attachments/assets/f0239190-10d7-44f6-8f5d-87ceb9c0c799)
