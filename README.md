@@ -25,18 +25,23 @@ The mechanical aspect and the structure of the prosthetic hand was designed usin
 
 The additional materials used for connecting the fingers to the main hand were nylon threads, double-sided tape, a wooden platform, and zip tiles to complete the prosthetic hand mechanically. Following are the screenshots of the stl files for every individual part of the hand:
 1. Palm:
+
 ![image](https://github.com/user-attachments/assets/f44be33d-413f-4c5f-8c80-9b62f293f651)
 
 2. Finger Bottom
+   
 ![image](https://github.com/user-attachments/assets/92b2b679-0d3d-482e-9fb6-eba72632a718)
 
 3. Finger Top
+   
 ![image](https://github.com/user-attachments/assets/77b6f71b-8b60-403f-ae74-5d700850bf9c)
 
 4. Thumb Bottom
+   
 ![image](https://github.com/user-attachments/assets/9b9c758f-a8ff-4d60-9abe-abba69bf0178)
 
 5. Thumb Top
+   
 ![image](https://github.com/user-attachments/assets/97e8f712-3919-404f-b096-60e683e1fe4c)
 
 ## Arduino Connection With Servo
